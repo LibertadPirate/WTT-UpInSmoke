@@ -1,0 +1,24 @@
+{
+    "3fe94530f8524f53953849ed": {
+        "path": "heads/mexican_american.bundle",
+        "addHeadToPlayer": true,
+        "side": [
+            "Usec",
+            "Bear"
+        ],
+        "locales": {
+            "en": "Marin"
+        }
+    },
+    "2e10f56dcbf747e89c15878f": {
+        "path": "heads/chong.bundle",
+        "addHeadToPlayer": true,
+        "side": [
+            "Usec",
+            "Bear"
+        ],
+        "locales": {
+            "en": "Chong"
+        }
+    }
+}

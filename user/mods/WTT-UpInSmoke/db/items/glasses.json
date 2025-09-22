@@ -1,0 +1,50 @@
+{
+    	"68ca95cffcc2aff106f9b780": {
+        "itemTplToClone": "59e770b986f7742cbd762754",
+        "parentId": "5448e5724bdc2ddf718b4568",
+        "handbookParentId": "5b47574386f77428ca22b330",
+		"overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "glasses/chong_glasses.bundle",
+                "rcid": ""
+            }
+        },
+		"locales": {
+            "en": {
+                "name": "Tommy Chong's Glasses",
+                "shortName": "Chong",
+                "description": "He can't see without these, man. "
+            }
+        },
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 13000,
+		"handbookPriceRoubles": 100,
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1000,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV"], 
+		"Probability": 100
+	}
+}
